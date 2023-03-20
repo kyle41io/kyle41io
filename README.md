@@ -61,7 +61,7 @@
 
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/kyleincontact" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/kinekine41" alt="Facebook">
