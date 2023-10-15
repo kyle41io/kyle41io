@@ -27,6 +27,8 @@
 <div class="d-flex justify-content-between">
 <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactNative logo" title="React Native" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
@@ -47,6 +49,7 @@
 <div class="d-flex justify-content-between">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:40px;"/>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-right:40px;"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" style="margin-right:40px;"/>
 </div>
 
 ### Tools
