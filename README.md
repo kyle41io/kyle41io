@@ -1,13 +1,13 @@
 
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hello, I'm Kyle 👋</h1>
+<h1 align="center">Hello, I'm Kyle</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam</h3>
 </p>
 
-- ✍ I'm a student of: Hanoi University of Science and Technology.
+-  Studied: IT2 Hanoi University of Science and Technology - HUST.
 
-- 🌱 I’m currently learning to become a Software Developer.
+-  Software Engineer.
 
 <br />
 
@@ -70,7 +70,7 @@
   
 </div>
 
-## 📫 Contact me:
+## Contact me:
 
 
 <p align="center">
@@ -80,8 +80,8 @@
   <a href="https://www.facebook.com/kinekine41" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/kyle41io" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <a href="https://kyle-portfolio-tan.vercel.app" alt="Link">
+    <img src="https://img.icons8.com/?size=48&id=n9d0Hm43JCPK&format=png&color=000000"/>
   </a> 
   <a href="mailto:vankien41hustt@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
